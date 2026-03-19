@@ -1,6 +1,6 @@
-# YouTube Dislike Fetcher Extension
+# Ver Deslike e Estatísticas do Vídeo
 
-Uma extensão para navegadores baseados em Chromium (Chrome, Brave) que permite visualizar o número de **deslikes** de vídeos no YouTube, mesmo após a remoção pública desse contador.
+Uma extensão para navegadores baseados em Chromium (Chrome, Brave) que permite visualizar o número de **deslikes** de vídeos no YouTube, mesmo após a remoção pública desse contador, além de mostrar outras estatísticas como **likes** e **rating**.
 
 ## Funcionalidade
 
@@ -12,11 +12,11 @@ Uma extensão para navegadores baseados em Chromium (Chrome, Brave) que permite 
 
 1. **Clone o repositório**:
     ```bash
-    git clone https://github.com/seu-usuario/youtube-dislike-fetcher.git
+    git clone https://github.com/JonathanFreitas/mostrar-deslikes-youtube.git
     ```
 
 2. **Carregue a extensão**:
-    - Acesse `chrome://extensions/` (ou `brave://extensions/` no Brave).
+    - Acesse `chrome://extensions/` (ou `brave://extensions/` no Brave ou chrome).
     - Ative o **Modo de Desenvolvedor**.
     - Clique em **Carregar sem compactação** e selecione a pasta do repositório.
 
